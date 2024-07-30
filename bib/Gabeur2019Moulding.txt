@@ -1,0 +1,6 @@
+@inproceedings{Gabeur2019Moulding,
+    TITLE = {Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images},
+    AUTHOR = {Valentin Gabeur and Jean-Sebastien Franco and Xavier Martin and Cordelia Schmid and Gregory Rogez},
+    BOOKTITLE = {International Conference on Computer Vision (ICCV)},
+    YEAR = {2019}
+}

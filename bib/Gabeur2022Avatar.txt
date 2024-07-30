@@ -1,0 +1,6 @@
+@inproceedings{Gabeur2022Avatar,
+    TITLE = {AVATAR: Unconstrained Audiovisual Speech Recognition},
+    AUTHOR = {Valentin Gabeur and Paul Hongsuck Seo and Arsha Nagrani and Chen Sun and Karteek Alahari and Cordelia Schmid},
+    BOOKTITLE = {INTERSPEECH},
+    YEAR = {2022}
+}

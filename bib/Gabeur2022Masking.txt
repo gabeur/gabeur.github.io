@@ -1,0 +1,6 @@
+@inproceedings{Gabeur2022Masking,
+    TITLE = {Masking Modalities for Cross-modal Video Retrieval},
+    AUTHOR = {Valentin Gabeur and Arsha Nagrani and Chen Sun and Karteek Alahari and Cordelia Schmid},
+    BOOKTITLE = {Winter Conference on Applications of Computer Vision (WACV)},
+    YEAR = {2022}
+}

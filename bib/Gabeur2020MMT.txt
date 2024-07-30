@@ -1,0 +1,6 @@
+@inproceedings{Gabeur2020MMT,
+    TITLE = {Multi-modal Transformer for Video Retrieval},
+    AUTHOR = {Valentin Gabeur and Chen Sun and Karteek Alahari and Cordelia Schmid},
+    BOOKTITLE = {European Conference on Computer Vision (ECCV)},
+    YEAR = {2020}
+}
